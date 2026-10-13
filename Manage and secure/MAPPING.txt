@@ -1,0 +1,21 @@
+Manage and secure — 18 most pertinent exhibits.
+Questions were not changed.
+
+G03  G03-free-tellers-shared.png         Free licenses on shared capacity
+G04  G04-app-not-updated.png             Workspace has a new page; app does not
+G05  G05-one-audience-all-content.png    One app audience sees both reports
+G13  G13-publish-to-web-public.png       Publish to web is public / no sign-in
+G16  G16-alert-on-report-card.png        Card is on a report; no dashboard
+G20  G20-cloud-and-onprem-sources.png    Azure SQL plus on-prem SQL
+G22  G22-personal-gateways-only.png      Four personal laptop gateways
+G25  G25-shared-eight-refresh-cap.png    Shared capacity; 8 slots used
+G26  G26-failures-notify-off.png         Failed refreshes; notifications off
+G29  G29-rls-roles-no-workspace-role.png RLS defined; workspace role not chosen
+G34  G34-one-report-not-workspace.png    Mayor needs one report only
+G35  G35-share-read-no-build.png         Partner has Read; Build is off
+G40  G40-map-table-empty-members.png     Email map; role has 0 members
+G41  G41-username-vs-upn.png             USERNAME() is DOMAIN\user
+G42  G42-members-see-all-rows.png        Members see every clinic
+G45  G45-roles-zero-members.png          Published roles; 0 members; no rows
+G46  G46-m365-group-rejected.png         Microsoft 365 group cannot be added
+G49  G49-payroll-and-branch.png          Two reports; tellers proposed as Members
